@@ -1,0 +1,11 @@
+body{
+text-align: center;
+}
+#App{
+    background-color: hotpink;
+}
+#Games{
+    background-color: deeppink;
+    height: 400px;
+    padding: 250px;
+}
